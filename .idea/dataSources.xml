@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="hb-05-many-to-many@localhost" uuid="54b090f9-25c0-435d-9314-4ca29304a099">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/hb-05-many-to-many</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="GMT+3" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>
